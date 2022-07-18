@@ -1,0 +1,9 @@
+exes/
+inputs/
+# cuda executable
+kernel
+kernel-no-opt
+nvidia-profile-*
+tempi-nvidia-profile-*
+
+

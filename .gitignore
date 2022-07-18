@@ -1,0 +1,13 @@
+# VS Code
+.vscode/*
+package.json
+
+# Test data
+*.csv
+
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
